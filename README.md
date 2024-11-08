@@ -31,7 +31,7 @@ I will update it later
 - Link for data: https://www.kaggle.com/datasets/splcher/animefacedataset
 
 ## Results
-Result is showed below. The model is train with 260 epochs. It's clearly seen that the quality of generated images are better over time.
+Result is showed below. The model is trained with 260 epochs. It's clearly seen that the quality of generated images are better over time.
 
 ![Result](animation3.gif)
 
