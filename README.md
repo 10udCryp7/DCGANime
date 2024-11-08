@@ -27,7 +27,7 @@ I will update it later
 
 
 ## Usage
-- The project is currently under development, I've just prepared `ganime.ipynb` for training and `infer.ipynb` for inference. The easiest way to use them is uploading them to kaggle, loading the data from kaggle and running each cell.
+- The project is currently under development, I've just prepared `notebook/ganime.ipynb` for training and `notebook/infer.ipynb` for inference. The easiest way to use them is uploading them to kaggle, loading the data from kaggle and running each cell.
 - Link for data: https://www.kaggle.com/datasets/splcher/animefacedataset
 
 ## Results
